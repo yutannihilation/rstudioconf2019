@@ -1,4 +1,4 @@
-# Materials for e-poster about gghighlight for rstudio::conf 2019
+# e-poster about gghighlight for rstudio::conf 2019
 
 ## References
 
